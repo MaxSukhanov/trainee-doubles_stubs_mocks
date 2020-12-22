@@ -1,4 +1,8 @@
+# frozen_string_literal: true
+
 class Human
+  attr_accessor :pet, :job
+
   def initialize(job: 'No job', pet: nil)
     @job = job
     @pet = pet
