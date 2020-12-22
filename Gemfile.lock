@@ -43,7 +43,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  rspec (~> 3.5)
+  rspec (~> 3.10)
   rubocop (~> 1.6)
   rubocop-rspec (~> 2.1)
 
